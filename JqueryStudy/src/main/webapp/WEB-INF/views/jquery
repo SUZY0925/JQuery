@@ -1,0 +1,9 @@
+웹 표준의 3가지 html, css, javascript
+jquery는 javascript의 라이브러리 이다. 부모는 javascript라는 것.. jquery사용한다고 javascript 모르면 안됨
+
+1.$() : jQuery 함수를 의미함, $()안에 css 선택자가 온다.
+		$().메소드 는 jquery함통해 반환된 jquery객체의 메소드이다.( jquery 객체 : jquery함수를 반환한 결과를 말함. )
+		
+  
+ 
+ 
