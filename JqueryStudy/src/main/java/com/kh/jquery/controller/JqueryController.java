@@ -10,5 +10,4 @@ public class JqueryController {
 	public String main() {
 		return "jqueryTest";
 	}
-ddd
 }
